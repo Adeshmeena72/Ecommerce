@@ -4,7 +4,7 @@
  
  
 ### Home page
-![1]([https://ibb.co/zG7fwcr](https://i.ibb.co/0cV0xhP/download.png))
+[img]https://i.ibb.co/0cV0xhP/download.png[/img]
 
 
 
